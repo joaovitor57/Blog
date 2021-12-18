@@ -1,8 +1,8 @@
-baseURL: 'http://www.example.com'
+baseURL: 'https://testeblog123.netlify.app/'
 title: Joao Vitor
 theme: hugo-coder
-languageCode: pt-br
-defaultContentLanguage: pt-br
+languageCode: en
+defaultContentLanguage: en
 paginate: 20
 pygmentsStyle: bw
 pygmentsCodeFences: true
@@ -15,8 +15,8 @@ params:
   info:
     - DevOps
   avatarURL: images/avatar.jpg
-  dateFormat: 'January 2, 2006'
-  since: 2019
+  dateFormat: '2, Jan, 2006'
+  since: 2021
   commit: 'https://github.com/luizdepra/hugo-coder/tree/'
   rtl: false
   colorScheme: auto
@@ -58,7 +58,7 @@ params:
     - name: Github
       icon: fa fa-2x fa-github
       weight: 1
-      url: 'https://github.com/johndoe/'
+      url: 'https://github.com/joaovitor57/'
     - name: Gitlab
       icon: fa fa-2x fa-gitlab
       weight: 2
@@ -70,7 +70,7 @@ params:
     - name: LinkedIn
       icon: fa fa-2x fa-linkedin
       weight: 4
-      url: 'https://www.linkedin.com/in/johndoe/'
+      url: 'https://www.linkedin.com/in/joaovas/'
     - name: Medium
       icon: fa fa-2x fa-medium
       weight: 5
