@@ -1,20 +1,19 @@
 baseURL: 'http://www.example.com'
-title: johndoe
+title: Joao Vitor
 theme: hugo-coder
-languageCode: en
-defaultContentLanguage: en
+languageCode: pt-br
+defaultContentLanguage: pt-br
 paginate: 20
 pygmentsStyle: bw
 pygmentsCodeFences: true
 pygmentsCodeFencesGuessSyntax: true
 enableEmoji: true
 params:
-  author: John Doe
-  description: John Doe's personal website
-  keywords: 'blog,developer,personal'
+  author: João Vitor
+  description: Joao Vitor blog pessoal
+  keywords: 'blog,infra,personal'
   info:
-    - Full Stack DevOps
-    - Magician
+    - DevOps
   avatarURL: images/avatar.jpg
   dateFormat: 'January 2, 2006'
   since: 2019
@@ -106,12 +105,12 @@ languages:
           url: contact/
   pt-br:
     languageName: ':brazil:'
-    title: João Ninguém
+    title: João Vitor
     params:
-      author: João Ninguém
-      info: Full Stack DevOps e Mágico
-      description: Sítio pessoal de João Ninguém
-      keywords: 'blog,desenvolvedor,pessoal'
+      author: João Vitor
+      info: DevOps
+      description: Site pessoal de João Vitor
+      keywords: 'blog,infra,devops,pessoal'
     menu:
       main:
         - name: Sobre
